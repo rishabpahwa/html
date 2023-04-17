@@ -1,0 +1,30 @@
+<table border="1">
+      <thead>
+        <tr>
+          <th>Engineering</th>
+          <th>Science</th>
+          <th>Commerce</th>
+          <th>Others</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>B-Tech in CSE</td>
+          <td>Bsc in Maths</td>
+          <td>BBA</td>
+          <td>Deploma in IT</td>
+        </tr>
+        <tr>
+          <td>B-Tech in ME</td>
+          <td>Bsc in Chemistry</td>
+          <td>MBA in Marketing</td>
+          <td>Deploma in Civil</td>
+        </tr>
+        <tr>
+          <td>B-Tech in CHE</td>
+          <td>Bsc in Physics</td>
+          <td>MBA in Finance</td>
+          <td>NCC</td>
+        </tr>
+      </tbody>
+    </table>
